@@ -1,8 +1,8 @@
 ## Image processing filters using OpenCV
 
-This project demonstrates my knowledge of Python programming and image processing principles. Libraries that were frequently used include NumPy, OpenCV, and Matplotlib.
+This project demonstrates knowledge of Python programming and image processing principles. Libraries that were frequently used include NumPy, OpenCV, and Matplotlib.
 
-This is the project I am most proud of as it is most visually appeasing, but also one of the more difficult project as I had to learn both Python programming and image processing concepts at once. The image filters are Python scripts that take an input image and occasional parameters, to transform the image similar to apps such as Snapchat and Instagram. The project includes over 50 image filters including enhancement, restoration, hue/saturation alteration and greyscale filters. I will show my favourite two down below: oilify and cartoonify filters.
+The image filters are Python scripts that take an input image and occasionally extra parameters to transform the image similar to apps such as Snapchat and Instagram. The project includes over 50 image filters including enhancement, restoration, hue/saturation alteration and greyscale filters. The two most visually appeasing are the oilify and cartoonify filters.
 
 The oilify filter takes an input image and outputs an oil painting version of itself.
 
